@@ -14,6 +14,10 @@
 # directories, DLLs and LIB files can be found.
 #
 # Edit this to suit your installation.
+#
+# If you used the One Click Installer, the location is typically something
+# like "C:\Program Files\PostgreSQL\(Postgres version number)". Remember to 
+# wrap the path in quotes if it contains spaces!
 
 PGSQLSRC=C:\Sources\postgresql-9.1.1\src
 
